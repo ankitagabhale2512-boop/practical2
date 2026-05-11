@@ -1,0 +1,5 @@
+# ankita.js
+console.log("Name: Ankita");
+console.log("class: TE");
+console.log("subject: LP2");
+console.log("Assignment no 4");

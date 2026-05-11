@@ -1,0 +1,3 @@
+FROM node:alpine
+COPY . /part1
+CMD node /part1/ankita.js
